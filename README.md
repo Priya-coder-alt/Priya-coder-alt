@@ -1,3 +1,4 @@
+![logo](https://github.com/Priya-coder-alt/Priya-coder-alt/blob/main/my%20banner.png)
 <h1 align="center">Hi 👋, I'm Priya Singh</h1>
 <h3 align="center">Passionate about Data Analysis and Visualization</h3>
 
