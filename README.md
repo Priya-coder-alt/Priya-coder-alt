@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data Analysis and Visualization</h3>
 
 
-<p align="Right"> <img src="https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif?width=300&height=300&name=Data%20analysis.gif" alt="priya-coder-alt" /> </p>
+<p align="centre"> <img src="https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif?width=300&height=300&name=Data%20analysis.gif" alt="priya-coder-alt" /> </p>
 
 - 📫 How to reach me **priyachakofficial@gmail.com**
 
