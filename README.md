@@ -3,9 +3,9 @@
 <h3 align="center">Passionate about Data Analysis and Visualization</h3>
 
 
-<p align="centre"> <img src="https://upmetrics.com/hs-fs/hubfs/Data%20analysis.gif?width=300&height=300&name=Data%20analysis.gif" alt="priya-coder-alt" /> </p>
+<p align="right"> <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif?width=300&height=300&name=Data%20analysis.gif" alt="priya-coder-alt" /> </p>
 
-- 📫 How to reach me **priyachakofficial@gmail.com**
+-📧How to reach me **priyachakofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
